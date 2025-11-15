@@ -8,6 +8,8 @@ Example: `EditorGUIUtility.IconContent("console.infoicon");`
 
 Advanced Usage: [Install as Git package](https://github.com/Doppelkeks/Unity-Editor-Icons/wiki/Use-the-git-Package)
 
+[petersvp/Unity-Editor-Icons.git](https://github.com/petersvp/Unity-Editor-Icons.git)
+
 Icons
 -------------
 
